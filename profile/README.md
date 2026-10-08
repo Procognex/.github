@@ -46,8 +46,8 @@ To learn more about our work, services, and approach, visit:
 
 ## Work With Us
 
-If your organization is looking to better understand its processes, identify improvement opportunities, or build process intelligence capabilities, we would be happy to talk.
+If your organization is looking to better understand its processes, identify improvement opportunities, or build process intelligence capabilities, please reach us contact@procognex.com.
 
 ---
 
-© PROCOGNEX 2026  - contact@procognex.com
+© PROCOGNEX 2026 
