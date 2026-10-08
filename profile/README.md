@@ -51,7 +51,7 @@ Our public repositories will include examples, accelerators, frameworks, experim
 
 Topics may include:
 
-- Process Mining
+* [Process Mining in Practice]([https://fluxicon.com/book/read/])
 - Task Mining
 - Process Intelligence
 - Data Engineering
