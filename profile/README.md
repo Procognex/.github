@@ -1,4 +1,4 @@
-## PROCOGNEX Consulting & Engineering
+## PROCOGNEX
 
 Welcome to the **PROCOGNEX** GitHub profile.
 
