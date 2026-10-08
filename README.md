@@ -45,63 +45,6 @@ From there, we combine process intelligence and data analysis to identify bottle
 
 When required, our engineering capabilities help turn those findings into scalable technical solutions.
 
-## Our Focus Areas
-
-### Process Mining
-
-Reconstruct and analyze real business processes using event data.
-
-We use process mining to identify:
-
-- Process variants
-- Bottlenecks
-- Rework
-- Compliance deviations
-- Automation opportunities
-- Performance issues
-- Process improvement opportunities
-
-### Task Mining
-
-Understand how work is performed at the user and task level.
-
-Task mining helps uncover repetitive activities, manual work, application switching, and opportunities for standardization or automation.
-
-### Data Science
-
-Use data to support better operational and strategic decisions.
-
-Our work can include:
-
-- Predictive analytics
-- Machine learning
-- Operational analytics
-- Statistical analysis
-- Data exploration
-- Decision-support models
-
-### Process Intelligence
-
-Process intelligence connects **process mining, task mining, data science, business knowledge, and operational data** into a broader understanding of how an organization works.
-
-The objective is not simply to generate insights.
-
-The objective is to create **better decisions and better processes**.
-
-## Engineering
-
-Our engineering work supports the complete process intelligence lifecycle, including:
-
-- Data ingestion
-- Data transformation
-- Event log preparation
-- Process analytics
-- Data platforms
-- APIs and integrations
-- Automation
-- Analytics applications
-- AI-enabled process solutions
-
 ## Relevant Repositories
 
 Our public repositories will include examples, accelerators, frameworks, experiments, and technical resources related to our areas of expertise.
@@ -134,4 +77,4 @@ If your organization is looking to better understand its processes, identify imp
 
 ---
 
-© PROCOGNEX
+© PROCOGNEX 2026
