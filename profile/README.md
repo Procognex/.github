@@ -42,7 +42,7 @@ More repositories will be published as the PROCOGNEX engineering ecosystem grows
 To learn more about our work, services, and approach, visit:
 
 - **Website:** https://procognex.com
-- **GitHub:** https://github.com/Procognex
+- **GitHub:** https://github.com/procognex
 
 ## Work With Us
 
