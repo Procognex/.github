@@ -4,15 +4,13 @@ Welcome to the **PROCOGNEX** GitHub profile.
 
 We are a consulting and engineering company focused on **Process Intelligence, Process Mining, Task Mining, Data Science, and Process Improvement**.
 
-We help organizations understand how their processes really work, connect operational data with business context, and turn insights into measurable improvements.
-
 ## Vision
 
 We believe on making organisations smoother by connecting **processes, data, technology and people**.
 
 ## Mission
 
-Our mission is to help organizations **turn process insights into real business improvement**.
+Our mission is to help organizations **turn process data into real business improvement**.
 
 We combine business understanding with technical execution to identify opportunities, uncover inefficiencies, and design solutions that improve how organizations operate.
 
