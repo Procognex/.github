@@ -8,7 +8,7 @@ We help organizations understand how their processes really work, connect operat
 
 ## Vision
 
-To make organisations smoother by connecting **processes, data, technology and people**.
+We believe on making organisations smoother by connecting **processes, data, technology and people**.
 
 ## Mission
 
@@ -21,8 +21,6 @@ Our work typically combines:
 - **Process Mining**
 - **Task Mining**
 - **Data Science & Analytics**
-- **Process Intelligence**
-- **Data Integration**
 - **Process Automation & Orchestration**
 - **Business Context & Operational Analysis**
 - **Change Management**
