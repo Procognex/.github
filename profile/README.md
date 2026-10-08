@@ -35,20 +35,11 @@ Our approach connects **analysis, engineering, implementation, and organizationa
 
 Our public repositories will include examples, accelerators, frameworks, experiments, and technical resources related to our areas of expertise.
 
-Topics may include:
+Cool Resources:
 
 * [Process Mining in Practice](https://fluxicon.com/book/read/)
-- Task Mining
-- Process Intelligence
-- Data Engineering
-- Data Science
-- Process Analytics
-- Automation
-- AI & Intelligent Operations
 
 More repositories will be published as the PROCOGNEX engineering ecosystem grows.
-
-## Case Studies & Insights
 
 To learn more about our work, services, and approach, visit:
 
